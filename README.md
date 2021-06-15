@@ -1,6 +1,6 @@
 # Counterfactual Off-Policy Training for Neural Dialogue Generation
 
-A pytorch implementation for [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://arxiv.org/abs/2004.14507)
+A pytorch implementation for [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://www.aclweb.org/anthology/2020.emnlp-main.276/)
 
 ![](https://github.com/qfzhu/COPT/blob/master/model.png)
  
